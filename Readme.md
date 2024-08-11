@@ -29,8 +29,8 @@
             <li>JavaScript</li>
         </ul>
     </p>
-    <div>
-      img= src "Images/Final output.png "
-    </div>
+     <div>
+<img src="Images/Final output.png">
+</div>
   </body>
 </html>
